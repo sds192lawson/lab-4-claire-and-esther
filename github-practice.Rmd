@@ -4,9 +4,9 @@ subtitle: "SDS 192"
 author: 
 - name: Jericho Lawson
   affiliation: Smith College
-- name: Author Name
+- name: Author Two
   affiliation: Smith College
-- name: Claire Rhody
+- name: Author Three
   affiliation: Smith College
 date: "`r format(Sys.Date(), '%B %e, %Y')`"
 output: 
