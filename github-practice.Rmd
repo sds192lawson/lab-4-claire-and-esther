@@ -48,5 +48,5 @@ nrow(pioneer_valley_2013)
 #Check the column names for pioneer_valley_2013.
 colnames(pioneer_valley_2013)
 
-#Grader: I saw the change in editing history but it got accidentally covered (changing 'colnames' back to 'ncol') when fixing the pull error
+#Grader: I saw the change in editing history but it seems to be accidentally covered (changing 'colnames' back to 'ncol') when fixing the merge conflict
 ```
