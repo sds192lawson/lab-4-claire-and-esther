@@ -38,6 +38,8 @@ pioneer_valley_2013 <- read.csv("https://raw.githubusercontent.com/SDS-192-Intro
 ```{r}
 #Check the dimensions for pioneer_valley_2013.
 nrow(pioneer_valley_2013)
+
+#Grader: Someone should change the function in line 40 to dim().
 ```
 
 2. Check column names
@@ -45,4 +47,6 @@ nrow(pioneer_valley_2013)
 ```{r}
 #Check the column names for pioneer_valley_2013.
 colnames(pioneer_valley_2013)
+
+#Grader: I saw the change in editing history but it got accidentally covered (changing 'colnames' back to 'ncol') when fixing the pull error
 ```
